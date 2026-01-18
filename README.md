@@ -161,6 +161,7 @@ Om Jaiswal
 A2 Chronicles is more than a website—it is a digital representation of teamwork, creativity, and shared experiences. The project demonstrates how modern web technologies can be used not only to build performant applications, but also to tell meaningful stories.
  ## Git Commit History :
  <img width="1435" height="668" alt="image" src="https://github.com/user-attachments/assets/1a8c614f-209b-4d6f-bbdd-63f71fcf87cc" />
-
+Due to time constraints during the final stages of development, a force push was accidentally performed, which resulted in the original commit history being overwritten.
+To maintain transparency and accurately reflect the development effort and collaboration involved in this project, we have included screenshots of the original commit history as part of the submission.
 
 
