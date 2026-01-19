@@ -152,6 +152,8 @@ Open the URL shown in your terminal (usually http://localhost:5173) to view the 
 
 Tanmay Satbhai
 
+Krish Mishra
+
 Piyush Dhanuka
 
 Mayank Dhapodkar
